@@ -1,9 +1,9 @@
-### Olá eu sou o Joaoavr👋
+### Olá eu sou o Joao👋
 
 
-- 🖥Estou trabalhando com Front end
-- 💻 Estou aprendendo  HTML CSS  and JS
-- ✌ Pronouns: ELE/DELE
+- 🖥Sou Desenvolvedor Full-Stack
+- 💻 Estou aprendendo TypeScript e Js
+- ✌ Pronouns: ele/dele
  
 <div align="center">
   <a href="https://github.com/Joaoavr">
