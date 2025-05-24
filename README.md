@@ -6,7 +6,7 @@
 
 Hi 👋, I'm João! A Computer Science student from Brazil.
 - 🖥  Iam a Full-Stack Developer.
-- 💻 Iam Learning TypeScript and Js.
+- 💻 Iam Learning TypeScript,JS and Kotlin.
 
  
 <div>
