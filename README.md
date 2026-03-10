@@ -1,10 +1,8 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello There</h1></summary>
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&color=8D8D8D&width=435&lines=>+who%20i%20am"> <br>
 
 **`Desenvolvedor FullStack`**
+
 
 Hi 👋, I'm João! A Computer Science student from Brazil.
 - 🖥  Iam a Full-Stack Developer.
